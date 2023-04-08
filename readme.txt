@@ -1,6 +1,6 @@
 Here's a sample README file for a web application that is to be hosted on Azure:
 
-Azure link: 
+Azure link: https://calm-sand-0ff8ffc10.3.azurestaticapps.net/
 
 
 Hunger Hunter Web Application
